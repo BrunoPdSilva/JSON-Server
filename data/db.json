@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Olá pessoal, na minha última postagem compartilhei meu novo cargo de Dev Front end júnior na GuideYou Tech tô muito feliz com essa minha primeira oportunidade na área depois de apenas 6 meses estudando e sem faculdade além de todo o meu conhecimento ser todo do YouTube e sim, não comprei nenhum curso.",
+      "likes": 820
+    },
+    {
+      "id": 2,
+      "title": "Criei um projeto da Disney+",
+      "body": "Gostaria de apresentar pra vocês o ultimo projeto que desenvolvi, é um re-design de interface da plataforma de streaming Disney+",
+      "likes": 1049
+    },
+    {
+      "id": 3,
+      "title": "Meu trabalho de sábado",
+      "body": "Sábadou trazendo um crud para controle financeiro criado em Reactjs, styled-components, localStorage e react-icons.",
+      "likes": 489
+    },
+    {
+      "id": 4,
+      "title": "Primeira semana de dev Jr",
+      "body": "Pra começar bem o dia... esse é o famoso Dev Jr na primeira semana participando da daily, um olho na daily e outro na correção dos bugs pra dar tempo de falar que o dia foi um sucesso haha😄😅",
+      "likes": 971
+    },
+    {
+      "id": 5,
+      "title": "Sindrome do impostor",
+      "body": "Meu primeiro post aqui vai ser sobre algo que já enfrentei muito desde que comecei a programar e provavelmente vários de vocês também, pois infelizmente é algo muito comum no nosso nicho. ",
+      "likes": 149
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
